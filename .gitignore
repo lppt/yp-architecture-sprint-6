@@ -1,0 +1,4 @@
+__pycache__/
+locust_env/
+.DS_Store
+*.bkp
